@@ -27,7 +27,7 @@ Don't Use semaphores. Only Shared Memory Must be Used.
 
 
 ### Solutions : - 
-![Basic Structure](images/Basic_Structure.PNG)
+![Basic Structure](images/Baic_Structure.PNG)
 
 ![Code Logic](images/Code_Structure.PNG)
 
