@@ -26,3 +26,8 @@ and writes .The solution must be devoid of unnecessary-delays, and starvation.
 Don't Use semaphores. Only Shared Memory Must be Used.
 
 
+### Solutions : - 
+![Basic Structure](/images/Basic_Structure.png)
+
+![Code Logic](/images/Code_Structure.png)
+
